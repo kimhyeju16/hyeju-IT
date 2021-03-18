@@ -20,6 +20,6 @@
 
 * * *
 
-<img width="" height="" src="./JPG/고양이.JPG"></img>
+
 
 
