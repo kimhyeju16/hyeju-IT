@@ -25,4 +25,4 @@
 
 ## 4주차과제_21173004_김혜주_it
 
-<img width="" height="" src="./png/4주차과제_21173004_김혜주_it.PNG"></img>
+<img width="" height="" src="./png/4주차과제_21173004_김혜주_it.png"></img>
